@@ -2,7 +2,7 @@ package day_01;
 
 public class Persion {
 	public String GetInfo(){
-		return "666";
+	System.out.print("888");	return "666";
 	}
 
 }
